@@ -208,6 +208,7 @@ section {
 }
 .custom_5 p:nth-child(2):before {
   content: '';
+  left: 0;
   width: 100%;
   height: 200px;
   display: block;
@@ -253,6 +254,7 @@ section {
 .custom_6:before {
   content: '';
   width: 100%;
+  right: 0;
   height: 150px;
   display: block;
   position: absolute;
